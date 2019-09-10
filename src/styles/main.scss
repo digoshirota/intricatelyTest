@@ -1,1 +1,16 @@
+*{
+    margin: 0;
+    padding: 0;
+    font-weight: 400;
+}
 
+$header-color: #394783;
+
+#app {
+    font-family: 'Avenir', Helvetica, Arial, sans-serif;
+}
+#header{
+    background-color: $header-color;
+    height: 60px;
+    width: 100%;
+}
